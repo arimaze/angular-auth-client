@@ -1,0 +1,12 @@
+{
+    "Name": "core",
+    "AssetsUrl": "http://asset.mycompany.com",
+    "DefaultLanguage": "en",
+    "DefaultPagingSize": "15",
+    "DefaultBrowserTitle": "My Company",
+    "DefaultAPIAddress": "http://localhost:5001",
+    "SSOAddress": "http://localhost:5000",
+    "SSOClientId": "client",
+    "AllowedMaxExportSize": "2000",
+    "FileUploadPath": "wwwroot/files"
+}
